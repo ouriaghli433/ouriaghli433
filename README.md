@@ -1,6 +1,6 @@
 # Hi, I'm Abdelhamid 👋
 
-**Backend developer** · 3rd-year software engineering student at **ENSI Tanger** · Looking for a **backend internship**
+**Backend developer** · 4th-year software engineering student at **ENSI Tanger** · Looking for a **backend internship**
 
 I build REST APIs with **PHP / Laravel** and **PostgreSQL**, and I like the hard parts of the backend: payments, webhooks, idempotency and concurrency.
 
