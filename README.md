@@ -21,7 +21,7 @@ I build REST APIs with **PHP / Laravel** and **PostgreSQL**, and I like the hard
 
 ## Featured projects
 
-**[Verdant – E-commerce API](https://github.com/ouriaghli433/Ecommerce)** · Laravel, PostgreSQL, Docker
+**[E-commerce API](https://github.com/ouriaghli433/Ecommerce)** · Laravel, PostgreSQL, Docker
 - Signed payment webhooks, deduplicated by event ID
 - Idempotency keys on checkout, payments and refunds (no double orders)
 - Concurrency handled with PostgreSQL row locks and transactions
